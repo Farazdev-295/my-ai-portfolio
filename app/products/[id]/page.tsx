@@ -1,5 +1,5 @@
 import { Suspense } from 'react';
-import { Product } from '@/app/types/index';
+import { Product } from '@/types/index';
 import Link from 'next/link';
 
 interface ProductPageProps {

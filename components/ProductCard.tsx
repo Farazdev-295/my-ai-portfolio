@@ -1,6 +1,6 @@
 'use client';
 import React, { useState } from 'react';
-import { Product } from '@/.next/types/types/index';
+import { Product } from '@/types/index';
 import Link from 'next/link';
 
 interface ProductCardProps {
